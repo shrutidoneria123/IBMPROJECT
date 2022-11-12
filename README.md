@@ -12,3 +12,5 @@ Source link="https://www.kaggle.com/datasets/mahmoudahmed6/udemy-top-5k-course-2
 1. Hands on practice on alteryx and trifacta.
 2. uploading work flow on github repository.
 ##Day. 2:
+# Day 3 : Data visualization Project 
+1.
